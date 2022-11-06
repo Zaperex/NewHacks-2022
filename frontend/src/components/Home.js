@@ -34,6 +34,7 @@ const Home = () => {
           <button
             onClick={() => {
               navigate("/signup");
+
             }}
           >
             {" "}
