@@ -24,7 +24,7 @@ const Home = () => {
        fetch();
     }, []);
     
-
+let history = useHistory();
   return (
     <div className="app">
     <h1>TUDOR</h1>
